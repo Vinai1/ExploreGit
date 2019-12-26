@@ -1,1 +1,1 @@
-Checking git commands adding test branch details Git conflict
+Checking git commands adding test branch details Git conflict Final CHanges
